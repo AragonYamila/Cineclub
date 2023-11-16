@@ -1,0 +1,67 @@
+.search{
+    width: 215% !important;
+    border: 1.5px solid #b41717 !important;
+  }
+  
+.searchBeeg{
+    width: 300% !important;
+    border: 1.5px solid #b41717 !important;
+  }
+  
+ .searchBig{
+    width: 300% !important;
+    border: 1.5px solid #b41717 !important;
+}
+  
+.form-signin {
+  width: 100%;
+  max-width: 330px;
+  padding: 15px;
+  margin: auto;
+}
+
+.form-signin .checkbox {
+  font-weight: 400;
+}
+
+.form-signin .form-floating:focus-within {
+  z-index: 2;
+}
+
+.form-signin input[type="email"] {
+  margin-bottom: -1px;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+}
+
+.form-signin input[type="password"] {
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+}
+
+.btn-outline-primary {
+  color: #fff !important;
+  border-color: #b41717 !important;
+}
+
+.btn-outline-primary:hover {
+  background-color: #b41717 !important;
+  border-color: #b41717 !important;
+}
+
+.btn-check:active +
+.btn-outline-primary, .btn-check:checked +
+.btn-outline-primary, .btn-outline-primary.active,
+.btn-outline-primary.dropdown-toggle.show, .btn-outline-primary:active {
+  background-color: #b41717 !important;
+  border-color: #b41717 !important;
+}
+
+.btn-check:focus + .btn-outline-primary, .btn-outline-primary:focus {
+  box-shadow: 0 0 0 .25rem rgba(255, 255, 255, 0.363);
+}
+
+.cantidad-form{
+	width: 20% !important;
+}
+

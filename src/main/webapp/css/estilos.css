@@ -1,0 +1,51 @@
+.header{
+  background-color:#070707;
+}
+
+.buttonA:hover {
+    color: rgb(255, 255, 255) !important;
+    background-color: #d64c4c !important;
+    border-color: #d64c4c !important;
+}
+
+.buttonA{ 
+color: white !important;
+background-color: #b41717 !important;
+border-color: #b41717 !important;
+}
+
+#map{
+	width:70%;
+	height:350px;
+
+}
+.nav-text:hover{
+    color:#b83b3b !important;
+}
+
+.alertbg{
+  background-color: #b41717;
+}
+
+.bgColor{
+  background-color: #232222;
+}
+footer{
+	background-color:#070707;
+}
+.btnBeeg{
+  width: 10em;
+  height: 5em;
+}
+
+.display-block{
+	display:block;
+}
+
+.portadaPelicula{
+ /*
+  width: 29em !important;
+  height: 39em !important;
+*/
+width:270px;
+}

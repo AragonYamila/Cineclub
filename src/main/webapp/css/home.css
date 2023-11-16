@@ -1,0 +1,33 @@
+
+.container-header{
+  width: 100%;
+  padding-right: var(--bs-gutter-x,.75rem);
+  padding-left: var(--bs-gutter-x,.75rem);
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.body-home{
+	background-color: #232222;
+}
+.rating-container .cover{
+	width: 100px;
+    height: 25px;
+    position: absolute;
+}
+.etiquetaDescripcion{
+	font-size:10px;	
+}
+
+.contenedorProximamente{
+width:200px;	
+background-color:#000000;
+}
+.informacionProximamente{
+	background-color: #A60B2A;
+	width:300px;
+}
+.carousel-inner{
+	width:800px !important;
+	margin:auto;
+}
